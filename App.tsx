@@ -5,7 +5,7 @@ import LoginPage from './components/LoginPage';
 import HomeScreen from './components/HomeScreen';
 
 const Stack = createStackNavigator();
-
+console.log("test");
 function App() {
   return (
     <NavigationContainer>
